@@ -1,4 +1,4 @@
 main()
 {
-	SOP("Hi")i
+	SOP("Hi, how are u!");
 }
